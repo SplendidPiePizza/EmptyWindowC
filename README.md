@@ -1,6 +1,6 @@
 # Empty Window
 
-This Is A Project which is just empty, no title no body no icon and nothing. You can use this for graphic designing or some meme template
+This Is A Project which is just empty, no title no body no icon and nothing. You can use this for graphic designing or some meme template. Compatible For Windows XP and Higher
 
 ## Compilation Instructions
 

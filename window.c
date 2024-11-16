@@ -13,7 +13,7 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam) 
             {
                 PAINTSTRUCT ps;
                 HDC hdc = BeginPaint(hwnd, &ps);
-                // Just filling the window with white color
+                // Empty Windowk
                 HBRUSH brush = CreateSolidBrush(BACKGROUND_COLOR);
                 FillRect(hdc, &ps.rcPaint, brush);
                 DeleteObject(brush);
